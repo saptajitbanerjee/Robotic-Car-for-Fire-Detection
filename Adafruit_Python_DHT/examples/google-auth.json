@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dht-data-381403",
+  "private_key_id": "7518bae701e56e73b2a6270a34f5272b0ee586ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/4OmeplNa53Rk\n/9F4vJESn4lo0pElNNlBlQB0AkH+d4KMOpU+vcV1wYvFDcFIrzTDRMzZur2V9p20\nWy2cH8uQ1ZYmlsICFsHF0oJVGT1AnAyeP45oOQl0YLwTNGyr39fXz0QAUHGHGaHx\nNm0nHIB24NhV750NS12ejvh2rBKkI977rM/KoMoB79rTjiBZqJi/GOYiv6S5q31e\nbVc5rx9dO+GulD5v/EjRyuTzcUlWPfDTPLxgVVMm/TfuhkOOr/UH5QAP7EUGZOyt\nJ0ObUlAbDRjybB5WYghJqU2y0JgwQFIVnAbgMEFr9uFYzvHSkP4gPD8fpHWkZogf\nX/g7MYXrAgMBAAECggEAF/nFl1JXJgu3yosApKKDSh1vMQ7mngyNfRleNiC2GFLc\nmCMV1QInc0Bc86F1XlyuLhwhsK8Z02w+ZnPiLhj2+cEGgwnhchtf2RUlvfZqZfFZ\nzkhIxhMicE1KEuhBD/TnZor6h0OF/Aii6J4RY4q3LqOHxK0tJaUeLJrWxxVXOvUc\nvJ+XX+6ns9iKIrw4rpQGKy+z1+yWgfdFt1nfgMHVWAac2Y4BM0WlxKfVHB6pvDnV\n9BYEXWvYvkcvongrf7/6mb++nuoewVXjTeK89ru2/A25nnOO26o/jgEKL8d+nArr\ncSyQ7N3WGhk5LlCDhA3ZgJUVkS3mvk0VLCOQaLa1mQKBgQD4ymIL2iWvm1rEtK81\nxjwkmmvR2LIbH8RWuDNYCR7ELgZ77kxQ7VlIH4KPAKHHSbudB9TMAPq+p1mi6Jo0\nGBrKkAr7eQEbEJtOWFZx4kWXjsUezOrPf2L9ra/4bnfxNQ+5K7vdIxoVcTTbXt5h\nhOC5OUdR1iSY7N6Fv73aL8WzDwKBgQDFcFYNAySdNtasasMsozhJRvlTMu/rXqNa\n1iHGFisw5F66nuX2ST7W+/JvxZ0We1Alp7TT+S9PICMxr12CWf6pjfFT0RKwTrzQ\nA0jWLbI6UkzdOWHBZ/PHy7EM9wPz7hsjBhK9r37OCnjk4ojP7xx6mIjh9lRRQNZF\n7DFnGAwPZQKBgQDqf3fiy/9xgfEQL25mNS9DIPo3lRRrVInvYzeh5xbEus0JyxbL\nwKvCu1CIEYRrHyhjXppInzO4uGxYjP2r1HyMKTDwzqEoLYL1WXZBaZFGxR8vZN5+\nLgfUK/4NH7KV+/mSA5LTYN6ZD1dO3iClsmVOsJp0nG9qZPlo/82m9hhWKQKBgGd4\nygAjx4qE9NiDUyoPmC3+/id2KHpnrKCsXCLd92C2LlcLc2UxWbd9br7ZB8yCb6xs\nSb5Vd0+2fftJ9m2cEHR3qSPODEdN3HH/ZqqoZCFghFvj+LFNc1sgCvfKdM3f2WTv\nh97VHFWK83SwrBadL4WobwRM/j9fBWy7reBjn95pAoGBAMGt9kwUoX+WmuEAFMmj\n8tr/0feDH+FgugwakjVb56Eyd+pIKukZ8U60NMorXiMcLrUywBNSIbiwT9nV2gEa\nNw/EM3bM7BWLciDubMJB3kvpkMkhEpqPRWBDB19xSJW2Pyp+ecEF3ahOGWwdYhz2\n3y8U5nb22PJKs+8uFgkRoEjz\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspberry-pi@dht-data-381403.iam.gserviceaccount.com",
+  "client_id": "105633774194963342158",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspberry-pi%40dht-data-381403.iam.gserviceaccount.com"
+}
