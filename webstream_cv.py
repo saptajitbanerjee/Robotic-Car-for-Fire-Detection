@@ -5,14 +5,6 @@ import numpy as np
 import threading
 from datetime import datetime
 
-#import sys
-#import os
-
-#sys.path.append("DHT/Adafruit_Python_DHT/examples")
-##import google-auth.json
-#print(DHT_PIN)
-
-
 PAGE="""\
     <html>
     <head>
